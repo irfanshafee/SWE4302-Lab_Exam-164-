@@ -3,12 +3,13 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Scoop extends Item {
-    private String flavor;
+public class Serving extends Item{
+
+    private String type;
     private double price;
 
-    public Scoop(String flavor, double price) {
-        this.flavor = flavor;
+    public Serving(String type, double price) {
+        this.type = type;
         this.price = price;
     }
 
@@ -17,8 +18,7 @@ public class Scoop extends Item {
         return price;
     }
 
-    public String getFlavor() {
-        return flavor;
+    public String getType() {
+        return type;
     }
-
 }
