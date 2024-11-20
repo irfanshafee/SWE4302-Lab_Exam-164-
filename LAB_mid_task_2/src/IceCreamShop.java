@@ -1,7 +1,4 @@
-import java.io.FileWriter;
-import java.io.IOException;
-import java.util.ArrayList;
-import java.util.List;
+
 public class IceCreamShop {
     public static void main(String[] args) {
         Order order = new Order();
@@ -16,7 +13,7 @@ public class IceCreamShop {
         order.addTopping("Chocolate Chips", 0.50, 1);
         order.addTopping("Fresh Strawberries", 0.50, 2);
 
-  
+
 
         // Set serving style
         order.setServing("Waffle Cone", 5.00);
