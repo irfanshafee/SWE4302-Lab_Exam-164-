@@ -9,10 +9,14 @@ public class IceCreamShop {
         // Add scoops
         order.addScoop("Chocolate Fudge", 3.00);
         order.addScoop("Mint Chocolate Chip", 2.80);
+        order.addScoop("Strawberry Swirl", 2.75);
+        order.addScoop("Pistachio Delight", 3.25);
 
         // Add toppings
         order.addTopping("Chocolate Chips", 0.50, 1);
         order.addTopping("Fresh Strawberries", 0.50, 2);
+
+  
 
         // Set serving style
         order.setServing("Waffle Cone", 5.00);

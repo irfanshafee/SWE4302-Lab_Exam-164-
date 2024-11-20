@@ -1,0 +1,13 @@
+Ice Cream Shop Invoice
+==============================
+Chocolate Fudge - 1 scoop: $3.00
+Mint Chocolate Chip - 1 scoop: $2.80
+Strawberry Swirl - 1 scoop: $2.75
+Pistachio Delight - 1 scoop: $3.25
+Chocolate Chips - 1 time(s): $0.50
+Fresh Strawberries - 2 time(s): $1.00
+Waffle Cone: $5.00
+==============================
+Subtotal: $18.30
+Tax: $1.46
+Total Amount Due: $19.76
